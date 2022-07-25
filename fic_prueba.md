@@ -1,6 +1,6 @@
 #Este cliente es el mejor
 #Conflicto solucionado
-nuevos cambios
+nuevos cambios y han sido exitosos
 Hola esto es un fichero prueba de lectura para nuestro repositorio
 Esto es una modificación en el fichero de prueba
 Nueva modificación
