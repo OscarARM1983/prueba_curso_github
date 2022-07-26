@@ -1,6 +1,6 @@
 # Historia de la rama main
 
-Hace unos días empecé este curso y en dos días lo acabo
+El curso se ha realizado en julio.
 
 ## Inicios de la rama
 
